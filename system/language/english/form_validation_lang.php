@@ -66,3 +66,8 @@ $lang['form_validation_greater_than']		= 'The {field} field must contain a numbe
 $lang['form_validation_greater_than_equal_to']	= 'The {field} field must contain a number greater than or equal to {param}.';
 $lang['form_validation_error_message_not_set']	= 'Unable to access an error message corresponding to your field name {field}.';
 $lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.';
+
+/*
+ * custom validation
+ */
+$lang['password_check']		= "The Password must contain uppercase and lowercase and numbers"; 

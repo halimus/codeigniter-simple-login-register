@@ -1,8 +1,11 @@
-<?php
+<?php $this->load->view('includes/navbar'); ?>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<div class="container" id="main">
+
+    <h1>Home page</h1>
+
+</div>
+
+
+
 
