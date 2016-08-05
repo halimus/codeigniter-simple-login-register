@@ -2,9 +2,13 @@
 CodeIgniter simple login register with Bootstrap
 
 Requirement :
+
 CodeIgniter 3+
+
 PHP 5.3+
+
 MySQL
+
 
 Installation:
 
