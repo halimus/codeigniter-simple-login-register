@@ -2,6 +2,7 @@
 CodeIgniter simple login register with Bootstrap
 
 ![Alt text](assets/images/1.jpg?raw=true "Login Page")
+![alt tag](assets/images/2.jpg)
 
 
 **Requirement :**
