@@ -1,6 +1,9 @@
 # codeigniter-simple-login-register
 CodeIgniter simple login register with Bootstrap
 
+![Alt text](assets/images/1.jpg?raw=true "Login Page")
+
+
 **Requirement :**
  - CodeIgniter 3+
  - PHP 5.3+
